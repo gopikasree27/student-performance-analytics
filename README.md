@@ -85,7 +85,7 @@ Nisha Fathima (93.2 average).
 - How to keep the project in its own folder so it can be uploaded to GitHub.
 
 # 10. GitHub Repository
-< https://github.com/gopikasree27/student-performance-analytics>
+ https://github.com/gopikasree27/student-performance-analytics
 
 ---
 ### How to run
