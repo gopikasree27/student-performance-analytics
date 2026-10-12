@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Maths,Physics,Chemistry,English,Computer_Science,Attendance,Total,Average,Grade,Result,Attendance_Status
+101,Arjun Kumar,CSE,88,82,79,85,92,94,426,85.2,A,Pass,OK
+102,Priya Sharma,CSE,92,90,88,91,95,97,456,91.2,A+,Pass,OK
+103,Karthik Raj,ECE,67,72,65,70,74,85,348,69.6,B,Pass,OK
+104,Divya Lakshmi,ECE,78,81,76,84,80,90,399,79.8,B+,Pass,OK
+105,Mohammed Faizal,MECH,55,48,52,60,58,78,273,54.6,C,Pass,OK
+106,Sneha Reddy,CSE,73,69,71,78,82,88,373,74.6,B+,Pass,OK
+107,Rahul Verma,MECH,38,45,42,50,47,65,222,44.4,D,Fail,Shortage
+108,Ananya Iyer,IT,85,87,90,88,93,96,443,88.6,A,Pass,OK
+109,Vignesh Babu,IT,62,58,60,66,70,80,316,63.2,B,Pass,OK
+110,Meena Krishnan,ECE,81,76,84,79,77,91,397,79.4,B+,Pass,OK
+111,Suresh Kumar,MECH,44,39,51,55,49,70,238,47.6,D,Fail,Shortage
+112,Nisha Fathima,CSE,95,93,91,89,98,99,466,93.2,A+,Pass,OK
+113,Aravind Raj,IT,70,74,68,72,79,84,363,72.6,B+,Pass,OK
+114,Lavanya Devi,ECE,59,63,57,61,65,82,305,61.0,B,Pass,OK
+115,Harish Narayan,CSE,76,80,82,74,85,89,397,79.4,B+,Pass,OK
+116,Pooja Singh,IT,66,71,69,75,72,87,353,70.6,B+,Pass,OK
+117,Dinesh Kumar,MECH,52,56,49,58,61,76,276,55.2,C,Pass,OK
+118,Keerthana S,ECE,89,84,86,90,87,93,436,87.2,A,Pass,OK
+119,Manoj Prabhu,CIVIL,47,53,45,49,51,72,245,49.0,D,Pass,Shortage
+120,Fathima Begum,CIVIL,68,64,70,73,66,83,341,68.2,B,Pass,OK
