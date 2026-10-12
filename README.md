@@ -1,6 +1,6 @@
 # 1. Project Title
 **Student Performance Analytics System**
-Name: <Gopikasree M> | Batch: Python with AI, EWB Courses | Roll/ID: <STU68202a527d9531746938450>
+Name: Gopikasree M | Batch: Python with AI, EWB Courses | Roll/ID: STU68202a527d9531746938450
 
 # 2. Objective
 Teachers often have raw marks but no quick summary. This project reads student
